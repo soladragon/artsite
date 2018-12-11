@@ -68,7 +68,7 @@ padding-left: 1rem;
 }
 
 #landing-image{
-    background: url("/img/flower.jpg");
+    background: url("/artsite/img/flower.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
